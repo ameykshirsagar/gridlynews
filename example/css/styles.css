@@ -1,0 +1,31 @@
+
+.item {
+  font-family:Segan,Arial, sans-serif normal;
+  background: #bebebe;
+  padding: 10px ;
+  word-break: break-all;
+  word-wrap: break-word;
+  white-space: pre;
+  white-space: pre-wrap;
+  color:black;
+  -webkit-box-shadow: 1px 1px 17px rgba(50, 50, 50, 0.71);
+-moz-box-shadow:    1px 1px 17px rgba(50, 50, 50, 0.71);
+box-shadow:         1px 1px 17px rgba(50, 50, 50, 0.71);
+}
+
+#menu {
+width:1300px;
+  margin: 0px auto;
+padding-bottom:4%;
+}
+#menu a{
+text-decoration:none;
+color:black;}
+#line {
+width:1000px;
+padding:10px;
+color:white;
+height:auto;
+}
+
+
